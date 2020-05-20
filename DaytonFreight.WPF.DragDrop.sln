@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaytonFreight.WPF.DragDrop", "DaytonFreight.WPF.DragDrop\DaytonFreight.WPF.DragDrop.csproj", "{268D47C2-4C77-4A9B-AE36-AF8F6F8BDD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualizingPanelTest", "VirtualizingPanelTest\VirtualizingPanelTest.csproj", "{9E04BC61-92A6-45C6-B85A-5919A380257C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268D47C2-4C77-4A9B-AE36-AF8F6F8BDD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268D47C2-4C77-4A9B-AE36-AF8F6F8BDD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268D47C2-4C77-4A9B-AE36-AF8F6F8BDD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268D47C2-4C77-4A9B-AE36-AF8F6F8BDD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E04BC61-92A6-45C6-B85A-5919A380257C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E04BC61-92A6-45C6-B85A-5919A380257C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E04BC61-92A6-45C6-B85A-5919A380257C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E04BC61-92A6-45C6-B85A-5919A380257C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {459B9DB4-70FF-47EB-8CAB-E8511BDA5DB4}
+	EndGlobalSection
+EndGlobal
